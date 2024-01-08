@@ -1,7 +1,8 @@
-group: Z3  # replace with your own group (A1, A2, B1, B2, C1, SC1)
-names:  # Replace with your own names (lastname first)
-  - Dupont Antoine
-  - Ntamack Romain
-emails:  # Replace with your own INSA email address
-  - antoine.dupont@insa-toulouse.fr
-  - romain.ntamack@insa-toulouse.fr
+group:
+  - B2
+names:
+  - Sebaici Kelian
+  - Zenou-Truchot Théophile
+emails:
+  - sebaici@insa-toulouse.fr
+  - zenou-trucho@insa-toulouse.fr
